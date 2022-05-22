@@ -1,0 +1,9 @@
+
+k = 1 Train: [e(H(k)) on train: 0.213], Test: [e(H(k)) on test: 0.293]
+k = 2 Train: [e(H(k)) on train: 0.250], Test: [e(H(k)) on test: 0.264]
+k = 3 Train: [e(H(k)) on train: 0.015], Test: [e(H(k)) on test: 0.052]
+k = 4 Train: [e(H(k)) on train: 0.017], Test: [e(H(k)) on test: 0.046]
+k = 5 Train: [e(H(k)) on train: 0.013], Test: [e(H(k)) on test: 0.060]
+k = 6 Train: [e(H(k)) on train: 0.014], Test: [e(H(k)) on test: 0.048]
+k = 7 Train: [e(H(k)) on train: 0.012], Test: [e(H(k)) on test: 0.049]
+k = 8 Train: [e(H(k)) on train: 0.010], Test: [e(H(k)) on test: 0.049]
